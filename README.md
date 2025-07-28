@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the solution for Round 1 of the Adobe India Hackathon 2025, titled "Connecting the Dots Through Docs." The challenge focuses on building intelligent document processing systems to extract, structure, and prioritize information from PDF documents based on various user needs and contexts.
+This repository contains the solution for Round 1 of the Adobe India Hackathon 2025, titled "Connecting the Dots." The challenge focuses on building intelligent document processing systems to extract, structure, and prioritize information from PDF documents based on various user needs and contexts.
 
 The solution is designed to be modular, efficient, and compliant with strict performance and resource constraints, including CPU-only execution and offline capability.
 
