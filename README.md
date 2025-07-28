@@ -47,27 +47,32 @@ This solution successfully addresses the requirements of two distinct challenges
 project_root/
 ├── README.md                           # This file (overall project README)
 ├── Challenge_1a/                       # Directory for Challenge 1A specific files (if kept separate)
+|   ├── sample_dataset
+|   |   ├── pdfs/
+|   |   ├── schema/
 │   ├── Dockerfile                      # Docker configuration for Challenge 1A
 │   ├── requirements.txt                # Dependencies for Challenge 1A
 │   ├── process_pdfs.py                 # Solution script for Challenge 1A
 │   ├── input/                          # Sample input PDFs for Challenge 1A
 │   └── output/                         # Output JSONs for Challenge 1A
 └── Challenge_1b/                       # Directory for Challenge 1B solution (integrates 1A core)
-├── Collection 1/
-│   ├── PDFs/                       # Input PDF documents for this collection
-│   ├── challenge1b_input.json      # Input configuration (persona, job-to-be-done, document list)
-│   └── challenge1b_output.json     # Generated output: Persona-driven analysis results
-├── Collection 2/
-│   ├── PDFs/
-│   └── challenge1b_input.json
-├── Collection 3/
-│   ├── PDFs/
-│   └── challenge1b_input.json
-├── Dockerfile                      # Docker container configuration for Challenge 1B solution
-├── requirements.txt                # Python dependencies for Challenge 1B
-├── pdf_extractor.py                # Handles low-level PDF parsing and element extraction (reused from 1A principles)
-├── challenge1b_processor.py        # Orchestrates collection processing, semantic analysis, and output generation
-└── approach_explanation.md         # Detailed explanation of methodology and design choices
+    ├── Collection 1/
+    │   ├── PDFs/                       # Input PDF documents for this collection
+    │   ├── challenge1b_input.json      # Input configuration (persona, job-to-be-done, document list)
+    │   └── challenge1b_output.json     # Generated output: Persona-driven analysis results
+    ├── Collection 2/
+    │   ├── PDFs/
+    │   ├── challenge1b_input.json
+    |   └── challenge1b_output.json
+    ├── Collection 3/
+    │   ├── PDFs/
+    │   ├── challenge1b_input.json
+    │   └── challenge1b_output.json
+    ├── Dockerfile                      # Docker container configuration for Challenge 1B solution
+    ├── requirements.txt                # Python dependencies for Challenge 1B
+    ├── pdf_extractor.py                # Handles low-level PDF parsing and element extraction (reused from 1A principles)
+    ├── challenge1b_processor.py        # Orchestrates collection processing, semantic analysis, and output generation
+    └── approach_explanation.md         # Detailed explanation of methodology and design choices
 
 ```
 
