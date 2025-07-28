@@ -6,7 +6,7 @@ This repository contains the solution for Round 1 of the Adobe India Hackathon 2
 
 The solution is designed to be modular, efficient, and compliant with strict performance and resource constraints, including CPU-only execution and offline capability.
 
-## Challenges Completed
+### ✅ Challenges Completed
 
 This solution successfully addresses the requirements of two distinct challenges, with **Challenge 1B's solution building upon the core functionalities developed for Challenge 1A.**
 
@@ -95,7 +95,8 @@ project_root/
     ```
 3.  **Run the Docker Container:**
     ```powershell
-    docker run --rm -v "$(Get-Location)/input:/app/input" -v "$(Get-Location)/output:/app/output" --network none my1a_solution:latest
+    docker run --rm -v ${PWD}/input:/app/input -v ${PWD}/output:/app/output my1a_solution:latest
+
     ```
 
 **Building and Running Challenge 1B (your main integrated solution):**
@@ -121,7 +122,8 @@ project_root/
 
 Upon successful execution of the Challenge 1B solution, `challenge1b_output.json` files will be generated within each `Collection X/` subdirectory. These JSON files contain the persona-driven analysis results, including metadata, extracted relevant sections with importance ranks, and refined subsection analysis.
 
-**Example `challenge1b_output.json` Structure:**
+📄 Example Output (challenge1b_output.json):
+
 
 ```json
 {
@@ -162,3 +164,13 @@ Upon successful execution of the Challenge 1B solution, `challenge1b_output.json
 **torch:** Version 2.3.1 - A deep learning framework, dependency for sentence-transformers.
 
 **numpy:** For numerical operations, dependency for sentence-transformers.
+
+---
+### ✅ Submission Notes
+
+- This repository is prepared in accordance with the submission guidelines of Adobe India Hackathon 2025 - Round 1.
+- All Docker builds have been tested on a CPU-only, offline environment.
+- If any additional details are required, please refer to `approach_explanation.md` inside the Challenge_1b folder.
+
+Thank you!
+
