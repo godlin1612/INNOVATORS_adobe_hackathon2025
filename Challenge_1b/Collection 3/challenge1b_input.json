@@ -1,0 +1,23 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "vegetarian_corporate_buffet"
+  },
+  "documents": [
+    {"filename": "Breakfast Ideas.pdf", "title": "Breakfast Ideas"},
+    {"filename": "Dinner Ideas - Mains_1.pdf", "title": "Dinner Ideas Mains Part 1"},
+    {"filename": "Dinner Ideas - Mains_2.pdf", "title": "Dinner Ideas Mains Part 2"},
+    {"filename": "Dinner Ideas - Mains_3.pdf", "title": "Dinner Ideas Mains Part 3"},
+    {"filename": "Dinner Ideas - Sides_1.pdf", "title": "Dinner Ideas Sides Part 1"},
+    {"filename": "Dinner Ideas - Sides_2.pdf", "title": "Dinner Ideas Sides Part 2"},
+    {"filename": "Dinner Ideas - Sides_3.pdf", "title": "Dinner Ideas Sides Part 3"},
+    {"filename": "Dinner Ideas - Sides_4.pdf", "title": "Dinner Ideas Sides Part 4"},
+    {"filename": "Lunch Ideas.pdf", "title": "Lunch Ideas"}
+  ],
+  "persona": {
+    "role": "Food Contractor"
+  },
+  "job_to_be_done": {
+    "task": "Prepare a diverse vegetarian buffet-style dinner menu for a corporate gathering of 50 people, considering presentation and ease of serving."
+  }
+}

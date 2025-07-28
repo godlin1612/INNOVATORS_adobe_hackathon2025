@@ -1,0 +1,1034 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a diverse vegetarian buffet-style dinner menu for a corporate gathering of 50 people, considering presentation and ease of serving.",
+    "processing_timestamp": "2025-07-28T07:04:09.733570"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Vegetable Lasagna Ingredients:",
+      "importance_rank": 1,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Beef Bourguignon Ingredients:",
+      "importance_rank": 2,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Meatloaf Ingredients:",
+      "importance_rank": 3,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Pulled Pork Sandwiches Ingredients:",
+      "importance_rank": 4,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Enchiladas Ingredients:",
+      "importance_rank": 5,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Shepherd's Pie Ingredients:",
+      "importance_rank": 6,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Beef Tacos Ingredients:",
+      "importance_rank": 7,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Lasagna Ingredients:",
+      "importance_rank": 8,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Crab Cakes Ingredients:",
+      "importance_rank": 9,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Fish and Chips Ingredients:",
+      "importance_rank": 10,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Jambalaya Ingredients:",
+      "importance_rank": 11,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Sweet and Sour Pork Ingredients:",
+      "importance_rank": 12,
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Cottage Cheese and Veggie Bowl Ingredients:",
+      "importance_rank": 13,
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Turkey Meatballs Ingredients:",
+      "importance_rank": 14,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "• Return chicken to the skillet and cook until heated through.",
+      "importance_rank": 15,
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Breakfast Tacos Ingredients:",
+      "importance_rank": 16,
+      "page_number": 6
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Apple Sandwich Ingredients:",
+      "importance_rank": 17,
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken and Pesto Sandwich Ingredients:",
+      "importance_rank": 18,
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Breakfast Quesadilla Ingredients:",
+      "importance_rank": 19,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Pork Schnitzel Ingredients:",
+      "importance_rank": 20,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Avocado Sandwich Ingredients:",
+      "importance_rank": 21,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Shrimp and Grits Ingredients:",
+      "importance_rank": 22,
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Cheese Roll-Ups Ingredients:",
+      "importance_rank": 23,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Zucchini Noodles with Pesto Ingredients:",
+      "importance_rank": 24,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Grilled Cheese Sandwich Ingredients:",
+      "importance_rank": 25,
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Peking Duck Ingredients:",
+      "importance_rank": 26,
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Breakfast Casserole Ingredients:",
+      "importance_rank": 27,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Beef and Broccoli Ingredients:",
+      "importance_rank": 28,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Fettuccine Alfredo Ingredients:",
+      "importance_rank": 29,
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Pork Chops with Apples Ingredients:",
+      "importance_rank": 30,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Fish Tacos Ingredients:",
+      "importance_rank": 31,
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Chicken Alfredo Ingredients:",
+      "importance_rank": 32,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Mushroom Risotto Ingredients:",
+      "importance_rank": 33,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chicken Fajitas Ingredients:",
+      "importance_rank": 34,
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Vietnamese Pho Ingredients:",
+      "importance_rank": 35,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "• 1 teaspoon thyme • 1 teaspoon rosemary • 1/4 cup olive oil • Salt...",
+      "importance_rank": 36,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Stuffed Bell Peppers Ingredients:",
+      "importance_rank": 37,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Yakitori Ingredients:",
+      "importance_rank": 38,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Chicken Cacciatore Ingredients:",
+      "importance_rank": 39,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Honey Garlic Pork Ribs Ingredients:",
+      "importance_rank": 40,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Shrimp Scampi Ingredients:",
+      "importance_rank": 41,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Spaghetti Carbonara Ingredients:",
+      "importance_rank": 42,
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Mediterranean Chickpea Salad Ingredients:",
+      "importance_rank": 43,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Thai Green Curry Ingredients:",
+      "importance_rank": 44,
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Lentil Salad Ingredients:",
+      "importance_rank": 45,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Coq au Vin",
+      "importance_rank": 46,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "section_title": "o Scramble eggs in the same pan.",
+      "importance_rank": 47,
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Breakfast Skillet Ingredients:",
+      "importance_rank": 48,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Osso Buco Ingredients:",
+      "importance_rank": 49,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Ramen Ingredients:",
+      "importance_rank": 50,
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Turkey and Cranberry Wrap Ingredients:",
+      "importance_rank": 51,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Vegetable Stir-Fry Ingredients:",
+      "importance_rank": 52,
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Veggie Sushi Rolls Ingredients:",
+      "importance_rank": 53,
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Quinoa Salad Ingredients:",
+      "importance_rank": 54,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Spaghetti Bolognese Ingredients:",
+      "importance_rank": 55,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Pad Thai Ingredients:",
+      "importance_rank": 56,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chicken Stir-Fry Ingredients:",
+      "importance_rank": 57,
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Greek Salad Ingredients:",
+      "importance_rank": 58,
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Bagel with Cream Cheese Ingredients:",
+      "importance_rank": 59,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chicken Pot Pie Ingredients:",
+      "importance_rank": 60,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Lemon Herb Salmon Ingredients:",
+      "importance_rank": 61,
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Chili Con Carne Ingredients:",
+      "importance_rank": 62,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ratatouille Ingredients:",
+      "importance_rank": 63,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Paella Ingredients:",
+      "importance_rank": 64,
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "section_title": "Chicken Caesar Wrap Ingredients: • 1 whole wheat tortilla • 1 cup cooked chicken breast,...",
+      "importance_rank": 65,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Gnocchi with Sage Butter Ingredients:",
+      "importance_rank": 66,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Chicken Parmesan Ingredients:",
+      "importance_rank": 67,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Chia Pudding Ingredients:",
+      "importance_rank": 68,
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Stuffed Chicken Breasts Ingredients:",
+      "importance_rank": 69,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "section_title": "Churros • Ingredients : o 1 cup water o 1/2 cup butter o 1 cup...",
+      "importance_rank": 70,
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Breakfast Bagel Sandwich Ingredients:",
+      "importance_rank": 71,
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Muﬃns Ingredients:",
+      "importance_rank": 72,
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Banana Bread Ingredients:",
+      "importance_rank": 73,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Beef Stroganoff Ingredients: • 1 pound beef sirloin, thinly sliced • 1 small onion, diced...",
+      "importance_rank": 74,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Lobster Tail Ingredients:",
+      "importance_rank": 75,
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Roast Chicken Ingredients:",
+      "importance_rank": 76,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Chicken Piccata Ingredients:",
+      "importance_rank": 77,
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "section_title": "Acarajé • Ingredients : o 2 cups black-eyed peas o 1 small onion o 2...",
+      "importance_rank": 78,
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "French Toast Ingredients:",
+      "importance_rank": 79,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "section_title": "o 2 cloves garlic o 4 tomatoes o 4 cups vegetable broth o 1 teaspoon...",
+      "importance_rank": 80,
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Eggplant Parmesan Ingredients:",
+      "importance_rank": 81,
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Pad See Ew Ingredients:",
+      "importance_rank": 82,
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Teriyaki Chicken Ingredients:",
+      "importance_rank": 83,
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Greek Moussaka Ingredients:",
+      "importance_rank": 84,
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Almond Butter and Apple Slices Ingredients:",
+      "importance_rank": 85,
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "section_title": "Tandoori Chicken Ingredients:",
+      "importance_rank": 86,
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Pancakes Ingredients: • 1 cup all-purpose flour • 2 tablespoons sugar • 1 teaspoon baking...",
+      "importance_rank": 87,
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Butter Chicken Ingredients:",
+      "importance_rank": 88,
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "section_title": "Moroccan Chicken Tagine Ingredients:",
+      "importance_rank": 89,
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Chicken Marsala Ingredients:",
+      "importance_rank": 90,
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Overnight Oats Ingredients:",
+      "importance_rank": 91,
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Scrambled Eggs Ingredients:",
+      "importance_rank": 92,
+      "page_number": 2
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "Layer 3 noodles, half the ricotta mixture, half the vegetables, and 1/3 of the mozzarella. • In a bowl, mix ricotta cheese, egg, salt, and pepper. • Top with remaining noodles, marinara sauce, mozzarella, and Parmesan cheese. • In a baking dish, spread a thin layer of marinara sauce. • Let stand for 10 minutes before serving.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • Cook for 2 hours, adding mushrooms, carrots, and pearl onions in the last 30 minutes.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• In a large bowl, mix ground beef, ground pork, diced onion, minced garlic, breadcrumbs, milk, beaten egg, ketchup, Worcestershire sauce, salt, and pepper. Meatloaf Ingredients: • 1 pound ground beef • 1/2 pound ground pork • 1 small onion, diced • 2 cloves garlic, minced • 1/2 cup breadcrumbs • 1/4 cup milk • 1 egg, beaten • 1/4 cup ketchup • 1 tablespoon Worcestershire sauce • 1 teaspoon salt • 1/2 teaspoon pepper Instructions: • Preheat oven to 350°F (175°C).",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Shred pork with forks and mix with sauce. • Mix barbecue sauce, chicken broth, and brown sugar, and pour over pork. • Serve on buns with coleslaw if desired.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. • Place enchiladas in a baking dish and pour enchilada sauce over the top. • Bake for 20-25 minutes until cheese is melted and bubbly. Enchiladas Ingredients: • 1 pound ground beef • 1 small onion, diced • 2 cloves garlic, minced • 1 can (14.5 ounces) enchilada sauce • 1 cup shredded cheese • 8 tortillas • 1 teaspoon cumin • 1 teaspoon chili powder • 2 tablespoons vegetable oil • Salt and pepper to taste Instructions: • Preheat oven to 375°F (190°C).",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • Transfer meat mixture to a baking dish. • In a skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. Shepherd's Pie Ingredients: • 1 pound ground lamb or beef • 1 small onion, diced • 2 cloves garlic, minced • 1 cup frozen peas and carrots • 1 cup beef broth • 2 tablespoons tomato paste • 2 tablespoons Worcestershire sauce • 4 cups mashed potatoes • 1/4 cup grated cheddar cheese • Salt and pepper to taste Instructions: • Preheat oven to 400°F (200°C).",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve beef mixture in taco shells or tortillas with desired toppings. Beef Tacos Ingredients: • 1 pound ground beef • 1 small onion, diced • 2 cloves garlic, minced • 1 packet taco seasoning • 1/2 cup water • Taco shells or tortillas • Shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa for toppings Instructions: • In a skillet, cook ground beef over medium heat until browned. • Add diced onion and minced garlic, sauté until softened.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Spread a thin layer of meat sauce in a baking dish. • Layer with 3 lasagna noodles, 1/3 of the ricotta mixture, 1/3 of the meat sauce, and 1/3 of the shredded mozzarella cheese. • In a bowl, mix ricotta cheese, egg, grated Parmesan cheese, basil, and oregano. • Let stand for 10 minutes before serving.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve with lemon wedges. • Form mixture into patties. Crab Cakes Ingredients: • 1 pound crab meat • 1 small onion, diced • 1/4 cup breadcrumbs • 1/4 cup mayonnaise • 1 egg, beaten • 1 tablespoon Dijon mustard • 1 tablespoon Worcestershire sauce • 1 teaspoon Old Bay seasoning • 2 tablespoons vegetable oil • Lemon wedges for serving Instructions: • In a bowl, mix crab meat, diced onion, breadcrumbs, mayonnaise, beaten egg, Dijon mustard, Worcestershire sauce, and Old Bay seasoning.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve fish and chips with lemon wedges. Fish and Chips Ingredients: • 1 pound white fish fillets (such as cod or haddock) • 1 cup flour • 1 cup beer • 1 teaspoon baking powder • 1 teaspoon salt • 1/2 teaspoon pepper • 4 large potatoes, peeled and cut into fries • Vegetable oil for frying • Lemon wedges for serving Instructions: • In a bowl, mix flour, baking powder, salt, and pepper. • Dip fish fillets in the batter and fry until golden and crispy. • Fry potatoes until golden and crispy.",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • Garnish with chopped cilantro and serve.",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve over cooked rice. • Return pork to the skillet and toss to coat in the sauce. Sweet and Sour Pork Ingredients: • 1 pound pork tenderloin, cubed • 1 bell pepper, diced • 1 small onion, diced • 1/2 cup pineapple chunks • 1/4 cup ketchup • 1/4 cup rice vinegar • 1/4 cup soy sauce • 1/4 cup brown sugar • 2 tablespoons cornstarch • 2 tablespoons vegetable oil • Cooked rice for serving Instructions: • In a bowl, toss pork cubes with cornstarch.",
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve immediately. Cottage Cheese and Veggie Bowl Ingredients: • 1 cup cottage cheese • 1/4 cup diced cucumber • 1/4 cup cherry tomatoes, halved • 1/4 cup diced bell pepper • Salt and pepper to taste Instructions: • In a bowl, combine cottage cheese, cucumber, cherry tomatoes, and bell pepper. • Season with salt and pepper.",
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. Turkey Meatballs Ingredients: • 1 pound ground turkey • 1 small onion, diced • 2 cloves garlic, minced • 1/4 cup breadcrumbs • 1 egg, beaten • 1/4 cup grated Parmesan cheese • 1 teaspoon oregano • 1 teaspoon basil • Salt and pepper to taste • 2 tablespoons olive oil • 1 jar (24 ounces) marinara sauce Instructions: • In a bowl, mix ground turkey, diced onion, minced garlic, breadcrumbs, beaten egg, grated Parmesan cheese, oregano, basil, salt, and pepper.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Serve warm. • Return chicken to the skillet and cook until heated through.",
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve with salsa. • Add sausage or bacon and bell pepper. • Serve immediately. • Serve immediately. • Spread marinara sauce over the pizza crust. • Add cheese, sausage or bacon, onions and bell pepper to the eggs. • Cook until the eggs are set and the vegetables are tender. • Sprinkle mozzarella cheese on top.",
+      "page_number": 6
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• Add the turkey, carrots, and spinach. • Layer the turkey, apple slices, and spinach on top. • Top with the second slice of bread and cut in half. Turkey and Apple Sandwich Ingredients: • 2 slices whole grain bread • 4 slices turkey breast • 1/2 apple, thinly sliced • 1/4 cup baby spinach • 1 tablespoon mustard or mayo Instructions: • Spread mustard or mayo on one slice of bread. • Add the lentils, bell pepper, cucumber, and carrots. • Add the chicken, avocado, and spinach.",
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• Top with the second slice of bread and cut in half. • Layer the chicken, spinach, and roasted red peppers on top. Chicken and Pesto Sandwich Ingredients: • 2 slices whole grain bread • 1 cup cooked chicken breast, sliced • 2 tablespoons pesto • 1/2 cup baby spinach • 1/4 cup roasted red peppers, sliced Instructions: • Spread pesto on one slice of bread.",
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve with salsa. • Add cheese, sausage or bacon, and bell pepper to the eggs. • Cook until the eggs are set and the vegetables are tender. Breakfast Quesadilla Ingredients: • 1 large flour tortilla • 2 large eggs • 1/4 cup shredded cheese • 1/4 cup cooked sausage or bacon • 1/4 cup diced bell pepper • Salsa for serving Instructions: • In a bowl, whisk the eggs and cook them in a skillet over medium heat. • Cook in the skillet until the tortilla is golden brown and crispy.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Serve with lemon slices. • Serve warm. • Sprinkle cooked bacon, diced onion, and grated Gruyère cheese over the crust. • Place pie crust in a pie dish. • Bake for 30-35 minutes until set and golden. • Cook cutlets until golden and crispy on both sides. Pork Schnitzel Ingredients: • 4 pork cutlets • 1/2 cup flour • 2 eggs, beaten • 1 cup breadcrumbs • 1/4 cup vegetable oil • 1 lemon, sliced • Salt and pepper to taste Instructions: • Season pork cutlets with salt and pepper.",
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• Serve on lettuce leaves or whole grain bread. • Serve in lettuce leaves. • Layer the mozzarella, tomato, and basil on top. • Top with the second slice of bread and cut in half. • Top with the second slice of bread and cut in half. • Layer the turkey, avocado, and spinach on top. • Spread on one slice of bread and top with the second slice.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve shrimp mixture over grits. • Add shrimp and cook until pink and opaque. • In a skillet, cook chopped bacon until crispy, then set aside. Shrimp and Grits Ingredients: • 1 pound shrimp, peeled and deveined • 1 cup grits • 4 cups water • 1/2 cup cheddar cheese, shredded • 1/4 cup butter • 1 small onion, diced • 2 cloves garlic, minced • 1/4 cup bacon, chopped • 1/4 cup green onions, sliced • Salt and pepper to taste Instructions: • In a pot, bring water to a boil and stir in grits.",
+      "page_number": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• Place a slice of cheese and a few spinach leaves on top. Turkey and Cheese Roll-Ups Ingredients: • 4 slices turkey breast • 4 slices cheese (such as cheddar or Swiss) • 1/2 cup baby spinach • 1/4 cup hummus Instructions: • Lay a slice of turkey flat and spread with hummus. • Roll up tightly and repeat with remaining ingredients.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Sprinkle with grated Parmesan cheese and serve. Zucchini Noodles with Pesto Ingredients: • 4 zucchinis, spiralized into noodles • 1/2 cup basil pesto • 1/4 cup cherry tomatoes, halved • 1/4 cup grated Parmesan cheese • 2 tablespoons olive oil • Salt and pepper to taste Instructions: • In a large skillet, heat olive oil over medium heat. • Add zucchini noodles and cook until tender. • Stir in basil pesto and cherry tomatoes. • Season with salt and pepper.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. • Serve warm. • Serve warm. • Serve lamb chops with mint sauce. • Cook sandwiches in the skillet until golden brown and cheese is melted. • Grill shrimp for 2-3 minutes per side untli pink and opaque. Grilled Cheese Sandwich Ingredients: • 8 slices bread • 4 slices cheddar cheese • 4 slices mozzarella cheese • 1/4 cup butter Instructions: • Preheat a skillet over medium heat. • Grill lamb chops for 4-5 minutes per side until cooked to desired doneness.",
+      "page_number": 12
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Serve duck with sliced green onions and mandarin pancakes. • In a bowl, mix soy sauce, honey, hoisin sauce, rice vinegar, minced garlic, five-spice powder, and grated ginger.",
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Let cool slightly before serving. • Stir in cheese, sausage or bacon, bell pepper, and onion. Breakfast Casserole Ingredients: • 6 large eggs • 1 cup milk • 1 cup shredded cheese • 1/2 cup cooked sausage or bacon • 1/2 cup diced bell pepper • 1/2 cup diced onion • Salt and pepper to taste Instructions: • Preheat oven to 350°F (175°C). • Pour the mixture into a greased baking dish. • Bake for 30-35 minutes or until the eggs are set. • In a bowl, whisk together eggs, milk, salt, and pepper.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve over cooked rice. • Cook sliced beef until browned, then set aside. • Return beef to the skillet and pour sauce over the top.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Garnish with chopped parsley and serve. Fettuccine Alfredo Ingredients: • 1 pound fettuccine • 1 cup heavy cream • 1/2 cup grated Parmesan cheese • 1/4 cup butter • 2 cloves garlic, minced • Salt and pepper to taste • Chopped parsley for garnish Instructions: • Cook fettuccine according to package instructions. • Toss cooked fettuccine with the sauce. • Season with salt and pepper. • Stir in grated Parmesan cheese until melted and smooth. • In a skillet, melt butter over medium heat.",
+      "page_number": 11
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • Cook pork chops until browned on both sides, then set aside. • Return pork chops to the skillet and simmer for 10 minutes until cooked through. Pork Chops with Apples Ingredients: • 4 pork chops • 2 apples, sliced • 1 small onion, sliced • 1/4 cup apple cider • 1/4 cup chicken broth • 2 tablespoons butter • 1 tablespoon olive oil • 1 teaspoon thyme • Salt and pepper to taste Instructions: • Season pork chops with salt and pepper.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve fish in taco shells or tortillas with desired toppings. • Serve over cooked rice, garnished with sliced green onions.",
+      "page_number": 10
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Garnish with chopped parsley and serve. Chicken Alfredo Ingredients: • 4 boneless, skinless chicken breasts • 1 pound fettuccine • 1 cup heavy cream • 1/2 cup grated Parmesan cheese • 1/4 cup butter • 2 cloves garlic, minced • Salt and pepper to taste • Chopped parsley for garnish Instructions: • Cook fettuccine according to package instructions. • Slice chicken and return to the skillet. • Toss cooked fettuccine with the sauce and chicken. • Remove chicken from the skillet and set aside.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Garnish with parsley and serve. • Sauté onion, garlic, and mushrooms until tender. Mushroom Risotto Ingredients: • 1 cup Arborio rice • 4 cups chicken or vegetable broth • 1 small onion, diced • 2 cloves garlic, minced • 1 cup mushrooms, sliced • 1/2 cup white wine • 1/2 cup grated Parmesan cheese • 2 tablespoons butter • 2 tablespoons olive oil • Salt and pepper to taste • Chopped parsley for garnish Instructions: • Heat broth in a pot and keep warm.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve chicken and vegetables in tortillas with desired toppings. • Cook sliced chicken, bell pepper, and onion until chicken is cooked through and vegetables are tender.",
+      "page_number": 7
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Divide noodles and thinly sliced beef among bowls. • Serve immediately. • Stir in fish sauce and soy sauce. • Garnish with fresh basil, cilantro, bean sprouts, lime wedges, and sliced jalapeños.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. • Bake for 45 minutes until vegetables are tender. • In a large baking dish, layer diced eggplant, zucchini, bell pepper, onion, and tomatoes. • Pour the mixture over the vegetables and toss to coat. • 1 teaspoon thyme • 1 teaspoon rosemary • 1/4 cup olive oil • Salt and pepper to taste Instructions: • Preheat oven to 375°F (190°C). • In a bowl, mix minced garlic, olive oil, thyme, rosemary, salt, and pepper.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "Stuffed Bell Peppers Ingredients: • 4 bell peppers, tops cut off and seeds removed • 1 pound ground beef • 1 small onion, diced • 2 cloves garlic, minced • 1 cup cooked rice • 1 can (14.5 ounces) diced tomatoes • 1 cup shredded cheese • 1 teaspoon oregano • 1 teaspoon basil • 2 tablespoons olive oil • Salt and pepper to taste",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Garnish with sliced green onions and serve. • Grill chicken, brushing with marinade, until cooked through. • Preheat grill to medium-high heat. • Marinate chicken pieces in the mixture for at least 30 minutes. Yakitori Ingredients: • 1 pound chicken thighs, cut into bite-sized pieces • 1/4 cup soy sauce • 1/4 cup mirin • 1/4 cup sake • 2 tablespoons sugar • Bamboo skewers • Sliced green onions for garnish Instructions: • In a bowl, mix soy sauce, mirin, sake, and sugar.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • Stir in diced tomatoes, chicken broth, red wine, oregano, basil, and olives. • In the same skillet, sauté diced onion, minced garlic, and sliced bell pepper until softened.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Garnish with green onions and serve. • Season ribs with salt, pepper, and paprika, then place in a baking dish. • Cover with foil and bake for 2.5 hours, basting occasionally with the sauce. Honey Garlic Pork Ribs Ingredients: • 2 pounds pork ribs • 1/4 cup honey • 1/4 cup soy sauce • 2 tablespoons rice vinegar • 3 cloves garlic, minced • 1 teaspoon grated ginger • 1 teaspoon paprika • Salt and pepper to taste • Sliced green onions for garnish Instructions: • Preheat oven to 300°F (150°C).",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve over cooked pasta. • Remove shrimp from the skillet and set aside. • Return shrimp to the skillet and toss to coat in the sauce. • Add shrimp and cook until pink and opaque.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Garnish with chopped parsley and serve. Spaghetti Carbonara Ingredients: • 1 pound spaghetti • 4 eggs • 1 cup grated Parmesan cheese • 1/2 cup pancetta, diced • 2 cloves garlic, minced • 1/4 cup heavy cream (optional) • Salt and pepper to taste • Chopped parsley for garnish Instructions: • Cook spaghetti according to package instructions. • Add cooked spaghetti and toss to coat. • In a bowl, whisk eggs, grated Parmesan cheese, and heavy cream (if using).",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Shrimp and Avocado Salad Ingredients: • 1 cup cooked shrimp, peeled and deveined • 1/2 avocado, diced • 1/4 cup cherry tomatoes, halved • 1/4 cup red onion, finely chopped • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a bowl, combine the shrimp, avocado, tomatoes, and red onion. • Drizzle with sesame oil and serve over rice. • Add the cooked chicken and soy sauce, and stir to combine.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve over cooked rice. • Stir in green curry paste, coconut milk, chicken broth, fish sauce, and brown sugar. • Add sliced bell pepper and simmer for 15 minutes until chicken is cooked through. • Cook diced onion and minced garlic until softened.",
+      "page_number": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• Season with salt and pepper, then top with the second slice of bread. • Spread the mixture on one slice of bread. • Top with cherry tomatoes and drizzle with olive oil.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. • Add diced onion, minced garlic, sliced mushrooms, and carrots, sauté until softened. Coq au Vin Ingredients: • 4 chicken thighs • 1 small onion, diced • 2 cloves garlic, minced • 1 cup red wine • 1 cup chicken broth • 1 cup mushrooms, sliced • 1 cup carrots, sliced • 1/4 cup bacon, chopped • 2 tablespoons tomato paste • 2 tablespoons flour • 2 tablespoons butter • 1 teaspoon thyme • 1 bay leaf • Salt and pepper to taste Instructions: • Preheat oven to 350°F (175°C).",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "refined_text": "o Slice and serve with pita bread and toppings. o Arrange tomatoes, cucumber, onion, green beans, olives, and tuna on a plate. o Serve with bread. o Pour chicken and sauce over the bread and serve warm. o Serve with peanut sauce. o Toss shredded papaya, carrot, and sliced tomatoes with the dressing. o Serve as a dip or side dish. o Serve potatoes with tomato sauce and a dollop of mayonnaise. o Serve with soy sauce for dipping. o Mix well and serve. o Serve chilled. o Serve chilled. o Serve chilled.",
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve immediately. • Serve immediately. • Serve immediately. • Assemble the sandwich with the egg, cheese, and ham or bacon between the croissant halves. • Let cool slightly before slicing and serving. • Stir in cheese, bell pepper, onion, and sausage or bacon. • Add sausage or bacon and cook until heated through. • Add potatoes, bell pepper, and onion, and cook until tender.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. • Stir in white wine, beef broth, diced tomatoes, thyme, and bay leaf. Osso Buco Ingredients: • 4 veal shanks • 1 small onion, diced • 2 cloves garlic, minced • 1 cup white wine • 2 cups beef broth • 1 can (14.5 ounces) diced tomatoes • 1 carrot, diced • 1 celery stalk, diced • 1 teaspoon thyme • 1 bay leaf • 2 tablespoons olive oil • Salt and pepper to taste Instructions: • Preheat oven to 350°F (175°C).",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Serve warm. • Serve warm. • Top with lemon slices, sliced onion, and sliced zucchini. • Serve immediately. • Top with grated Parmesan cheese. • Let rest before slicing and serving. • In a skillet, cook ground beef or sausage with diced onion and minced garlic until browned. • In a baking dish, layer half the ziti, half the sauce, dollops of ricotta, and half the mozzarella. • Divide noodles among bowls, top with broth, pork belly, soft-boiled eggs, sliced green onions, nori, and sesame seeds.",
+      "page_number": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• Add the turkey, spinach, and carrots. • Serve cold or reheat before serving. • Roll up the tortilla tightly and slice in half. Tuna and Avocado Salad Ingredients: • 1 can tuna, drained • 1/2 avocado, diced • 1/4 cup cherry tomatoes, halved • 1/4 cup red onion, finely chopped • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a bowl, combine the tuna, avocado, tomatoes, and red onion. • Season with salt and pepper.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve over cooked rice. • Pour sauce over the vegetables and cook until thickened. Vegetable Stir-Fry Ingredients: • 1 cup broccoli florets • 1 cup bell peppers, sliced • 1 cup snow peas • 1 small onion, diced • 2 cloves garlic, minced • 2 tablespoons soy sauce • 1 tablespoon oyster sauce • 1 tablespoon sesame oil • 1 teaspoon cornstarch • 1/4 cup water • Cooked rice for serving Instructions: • In a small bowl, mix soy sauce, oyster sauce, sesame oil, cornstarch, and water.",
+      "page_number": 5
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• Slice into bite-sized pieces and serve with soy sauce. • Add the chicken, cheese, and coleslaw mix. • In a bowl, combine the spinach, feta cheese, and cherry tomatoes. • Top with the second slice of bread and cut in half. • Add the bell pepper, zucchini, and red onion. • Slice into wedges.",
+      "page_number": 11
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Quinoa Salad Ingredients: • 1 cup cooked quinoa • 1/2 cup cherry tomatoes, halved • 1/2 cucumber, diced • 1/4 cup red onion, finely chopped • 1/4 cup feta cheese, crumbled • 2 tablespoons olive oil • 1 tablespoon lemon juice • Salt and pepper to taste Instructions: • In a large bowl, combine the quinoa, tomatoes, cucumber, red onion, and feta cheese. • Season with salt and pepper, then toss to combine. • Drizzle with olive oil and lemon juice.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Cook spaghetti according to package instructions. • Serve Bolognese sauce over spaghetti, garnished with grated Parmesan cheese. • Add diced onion, minced garlic, grated carrot, and diced celery, sauté until vegetables are tender.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Garnish with chopped peanuts and serve. • Add bean sprouts, cooked shrimp or chicken, and chopped green onions. • Sauté shrimp or chicken in vegetable oil until cooked, then set aside. • Add noodles, fish sauce, tamarind paste, sugar, and lime juice, stir to combine. • Scramble eggs in the same pan.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve over cooked rice. • Cook until sauce is thickened. • Cook sliced chicken until browned, then set aside. • Add broccoli and bell peppers, stir-fry until tender. • Return chicken to the skillet and pour sauce over the top. • In the same skillet, sauté diced onion and minced garlic until fragrant.",
+      "page_number": 9
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "Greek Salad Ingredients: • 1 cup cherry tomatoes, halved • 1/2 cucumber, diced • 1/4 cup red onion, finely chopped • 1/4 cup black olives, sliced • 1/4 cup feta cheese, crumbled • 2 tablespoons olive oil • 1 tablespoon red wine vinegar • Salt and pepper to taste Instructions: • In a large bowl, combine the tomatoes, cucumber, red onion, olives, and feta cheese. • Season with salt and pepper, then toss to combine. • Drizzle with olive oil and red wine vinegar.",
+      "page_number": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Add optional toppings if desired. • Serve immediately. Bagel with Cream Cheese Ingredients: • 1 bagel, sliced and toasted • 2 tablespoons cream cheese • Optional toppings: smoked salmon, capers, red onion, tomato slices Instructions: • Spread cream cheese on each half of the toasted bagel.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. • Pour mixture into a baking dish and top with pie crust. • Bake for 25-30 minutes until crust is golden. • Add frozen peas and carrots, thyme, rosemary, salt, and pepper. • Cook diced onion and minced garlic until softened.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • Top each fillet with lemon slices. • Place salmon fillets on a baking sheet. • In a bowl, mix minced garlic, olive oil, chopped dill, chopped parsley, salt, and pepper. • Bake for 15-20 minutes until salmon is cooked through. Lemon Herb Salmon Ingredients: • 4 salmon fillets • 1 lemon, sliced • 2 cloves garlic, minced • 1/4 cup olive oil • 1 tablespoon fresh dill, chopped • 1 tablespoon fresh parsley, chopped • Salt and pepper to taste Instructions: • Preheat oven to 375°F (190°C).",
+      "page_number": 13
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Serve hot, garnished with shredded cheese and sour cream. • Stir in kidney beans, diced tomatoes, tomato paste, beef broth, chili powder, cumin, and paprika.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Ratatouille Ingredients: • 1 eggplant, diced • 1 zucchini, diced • 1 bell pepper, diced • 1 small onion, diced • 2 cloves garlic, minced • 4 tomatoes, diced",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Garnish with lemon wedges and serve. • Add shrimp, mussels, and cooked chicken, simmer for an additional 10 minutes until seafood is cooked and rice is tender. • In the same skillet, sauté diced onion, minced garlic, and diced bell pepper until softened.",
+      "page_number": 14
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "refined_text": "• Add the chicken, lettuce, and Parmesan cheese. • Roll up the tortilla tightly and slice in half. Chicken Caesar Wrap Ingredients: • 1 whole wheat tortilla • 1 cup cooked chicken breast, sliced • 1 cup romaine lettuce, chopped • 2 tablespoons Caesar dressing • 2 tablespoons grated Parmesan cheese • Optional: croutons for extra crunch Instructions: • Lay the tortilla flat and spread the Caesar dressing evenly.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Serve warm. • Season with salt and pepper, and sprinkle with Parmesan cheese. • Add cooked gnocchi to the skillet and toss to coat in the butter sauce. • In a large skillet, melt butter over medium heat. Gnocchi with Sage Butter Ingredients: • 1 pound potato gnocchi • 1/4 cup butter • 2 cloves garlic, minced • 8 fresh sage leaves • 1/2 cup grated Parmesan cheese • Salt and pepper to taste Instructions: • Cook gnocchi according to package instructions, then drain.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • Bake for 20-25 minutes until cheese is melted and bubbly. • Place chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese. • Season chicken breasts with salt and pepper. • Dredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and grated Parmesan cheese.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Stir well before serving and top with your favorite toppings. Chia Pudding Ingredients: • 1/4 cup chia seeds • 1 cup almond milk • 1 tablespoon honey or maple syrup • 1/2 teaspoon vanilla extract • Toppings: fresh fruit, nuts, coconut flakes Instructions: • In a bowl, whisk together chia seeds, almond milk, honey or maple syrup, and vanilla extract.",
+      "page_number": 5
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Serve warm. • Transfer to a baking dish and bake for 20-25 minutes until cooked through. • Cut a pocket into each chicken breast. • In a bowl, mix spinach, feta, sun-dried tomatoes, and garlic. • Stuff the mixture into the chicken pockets and secure with toothpicks if needed. • Season chicken with salt and pepper.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_2.pdf",
+      "refined_text": "o Serve with dipping sauce. o Toss spinach with dressing and serve. o Serve warm or chilled. o Serve warm or chilled. o Garnish with chopped green onions and serve. o Serve chilled. o Mix beans with tomato sauce and transfer to a baking dish. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Serve warm. o Bake for 10 minutes until cheese is melted and bubbly.",
+      "page_number": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve immediately. • Assemble the sandwich with the egg, cheese, and ham or bacon between the bagel halves. Breakfast Bagel Sandwich Ingredients: • 1 bagel, sliced and toasted • 1 large egg • 1 slice of cheese • 1 slice of ham or bacon • Salt and pepper to taste Instructions: • Cook the egg in a skillet over medium heat, seasoning with salt and pepper. • Place the cheese on top of the egg to melt.",
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Let cool before serving. • Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean. Muﬃns Ingredients: • 2 cups all-purpose flour • 1/2 cup sugar • 1 tablespoon baking powder • 1/2 teaspoon salt • 1 cup milk • 1/4 cup vegetable oil • 1 large egg • 1 teaspoon vanilla extract • 1 cup fresh or frozen berries Instructions: • Preheat oven to 375°F (190°C). • In a bowl, mix flour, sugar, baking powder, and salt.",
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Bake for 60 minutes or until a toothpick inserted into the center comes out clean. • In a bowl, mix mashed bananas and melted butter. • Pour the batter into a greased loaf pan. • Let cool before slicing. Banana Bread Ingredients: • 3 ripe bananas, mashed • 1/3 cup melted butter • 1/2 cup sugar • 1 large egg, beaten • 1 teaspoon vanilla extract • 1 teaspoon baking soda • Pinch of salt • 1 1/2 cups all-purpose flour Instructions: • Preheat oven to 350°F (175°C).",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve over egg noodles or rice. • Add sliced beef and cook until browned. • Stir in mushrooms and cook until tender. • Gradually add beef broth, stirring constantly until the sauce thickens. • Add diced onion and minced garlic, sauté until translucent. • Stir in sour cream and paprika, season with salt and pepper.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. • Brush the mixture over the lobster meat. • Gently pull the lobster meat out of the shell and place it on top. • In a bowl, mix melted butter, minced garlic, lemon juice, chopped parsley, salt, and pepper. • Using kitchen shears, cut the top shell of the lobster tails lengthwise. • Place lobster tails on a baking sheet and bake for 12-15 minutes until cooked through.",
+      "page_number": 14
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Let rest before carving and serving. • Stuff the cavity with lemon halves and minced garlic. • Season the chicken with salt and pepper. • In a bowl, mix olive oil, chopped rosemary, and chopped thyme. • Brush the mixture over the chicken. Roast Chicken Ingredients: • 1 whole chicken • 1 lemon, halved • 4 cloves garlic, minced • 1/4 cup olive oil • 1 tablespoon fresh rosemary, chopped • 1 tablespoon fresh thyme, chopped • Salt and pepper to taste Instructions: • Preheat oven to 375°F (190°C).",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Garnish with chopped parsley and serve. • Return chicken to the skillet and coat with the sauce. • Cook chicken until golden and cooked through, then set aside. • In a large skillet, heat olive oil and butter over medium heat. • In the same skillet, add lemon juice, chicken broth, and capers, simmer until reduced by half.",
+      "page_number": 8
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "refined_text": "o Serve as accompaniments to the main meal. o Serve hot with crusty bread. o Serve with lettuce and dipping sauce. o Serve with dipping sauce. o Serve with warmed tomato sauce. o Slice thinly and serve. o Serve with breadsticks. o Add pineapple, tomatoes, and fish fillets, cook until fish is done. o Add fish fillets, shrimp, and mussels, cook until seafood is done. o Bake for 45 minutes until vegetables are tender. o Sauté sliced pork, shrimp, and diced onion until cooked.",
+      "page_number": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve with your favorite toppings. • Serve with salsa. • Add optional toppings if desired. • Serve with syrup and powdered sugar. • Assemble the sandwich with the egg, cheese, and ham or bacon between the English muﬃn halves. • Add cheese, sausage or bacon, bell pepper, and onion to the eggs. • Cook until the eggs are set and the vegetables are tender.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Sides_3.pdf",
+      "refined_text": "o Serve with dipping sauce. o Serve with pita bread. o Serve with pita bread. o Combine potatoes, bacon, and onion with the dressing. o Garnish with sliced green onions and serve. o Serve warm or chilled. o Serve warm or chilled. o Toss shredded papaya, carrots, peanuts, and cilantro with the dressing. o Add diced tomatoes, tomato paste, thyme, curry powder, salt, and pepper, cook for 5 minutes. o Garnish with chopped green onions and serve. o Garnish with chopped green onions and serve.",
+      "page_number": 1
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • Bake for 25-30 minutes until cheese is melted and bubbly. • In a baking dish, layer eggplant slices, marinara sauce, and shredded mozzarella cheese. • Repeat layers and top with remaining cheese.",
+      "page_number": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Add noodles, soy sauce, oyster sauce, and sugar, stir to combine. • Cook sliced chicken until browned, then set aside. • Add broccoli and stir-fry until tender. • In a large skillet, heat vegetable oil over medium heat. • Scramble eggs in the same skillet.",
+      "page_number": 15
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve chicken over cooked rice, garnished with sliced green onions. • Heat vegetable oil in a skillet over medium heat. • Marinate chicken thighs in the mixture for at least 30 minutes. • Pour marinade into the skillet and simmer until thickened. • Cook chicken thighs until browned and cooked through.",
+      "page_number": 3
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Serve warm. • In a baking dish, layer eggplant slices and meat sauce. • Pour béchamel sauce over the top and sprinkle with grated Parmesan cheese. • In the same skillet, cook ground lamb or beef, diced onion, and minced garlic until browned. • Bake for 30-35 minutes until golden and bubbly. • Stir in diced tomatoes, red wine, cinnamon, oregano, salt, and pepper.",
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve immediately. Almond Butter and Apple Slices Ingredients: • 1 apple, sliced • 2 tablespoons almond butter Instructions: • Spread almond butter on each apple slice.",
+      "page_number": 16
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "refined_text": "• Serve warm. • Marinate chicken thighs in the mixture for at least 1 hour. • Place chicken on a baking sheet and bake for 25-30 minutes until cooked through. • Preheat oven to 400°F (200°C).",
+      "page_number": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve with syrup and your favorite toppings. • Pour 1/4 cup of batter onto the skillet for each pancake. • Pour the wet ingredients into the dry ingredients and stir until just combined. • Heat a non-stick skillet over medium heat and lightly grease it. • In another bowl, combine buttermilk, egg, melted butter, and vanilla extract.",
+      "page_number": 2
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Garnish with cilantro and serve with rice or naan. Marinate chicken in the mixture for at least 1 hour. • In a skillet, melt butter over medium heat. • Add marinated chicken and cook until browned. • Stir in tomato puree and simmer for 20 minutes. • Add heavy cream, season with salt and pepper, and simmer for another 10 minutes.",
+      "page_number": 4
+    },
+    {
+      "document": "Dinner Ideas - Mains_3.pdf",
+      "refined_text": "• Garnish with parsley and serve over couscous. • Brown chicken thighs on all sides, then set aside. • Season with salt and pepper. • Sauté onion and garlic until softened. • Stir in cumin, cinnamon, and turmeric, then add chicken broth, apricots, and olives. • Return chicken to the pot, cover, and simmer for 45 minutes until tender.",
+      "page_number": 6
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "• Garnish with chopped cilantro and serve. • Garnish with chopped parsley and serve. • In the same skillet, sauté mushrooms until tender. • Return chicken to the skillet and coat with the sauce. • Stir in diced tomatoes and simmer for 20 minutes. • Cook chicken until golden and cooked through, then set aside. • Season with salt and pepper to taste. • In a large skillet, heat vegetable oil over medium heat. • Marinate chicken cubes in the mixture for at least 1 hour. • Cook diced onion until translucent.",
+      "page_number": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Slice in half and serve. • Add optional toppings if desired. • Serve immediately. • Serve immediately. • Serve immediately. • Serve immediately. • Serve immediately. • Serve immediately. • Serve immediately. • Serve immediately. • Layer with shredded carrots, cucumber, spinach, and bell pepper. • In the morning, stir again and add your favorite toppings. • Sandwich two apple rings together with the peanut butetr sides facing in. • Stir in bell pepper, spinach, and cheese.",
+      "page_number": 11
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "• Serve immediately. • Pour the egg mixture into the skillet. • Heat a non-stick skillet over medium heat and melt the butter.",
+      "page_number": 2
+    }
+  ]
+}

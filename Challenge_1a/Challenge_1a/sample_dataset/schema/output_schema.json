@@ -1,0 +1,36 @@
+{
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "filename": { "type": "string" },
+        "page_count": { "type": "integer" }
+      },
+      "required": ["filename", "page_count"]
+    },
+    "content": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "page_number": { "type": "integer" },
+          "elements": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": { "type": "string" },
+                "content": { "type": "string" }
+                // Add more properties as per actual schema, e.g., for tables
+              },
+              "required": ["type", "content"]
+            }
+          }
+        },
+        "required": ["page_number", "elements"]
+      }
+    }
+  },
+  "required": ["metadata", "content"]
+}
