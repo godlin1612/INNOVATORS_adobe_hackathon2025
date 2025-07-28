@@ -1,4 +1,4 @@
-# Adobe India Hackathon 2025 - Round 1: Connecting the Dots Through Docs
+# Adobe India Hackathon 2025 - Round 1: Connecting the Dots
 
 ## Overview
 
@@ -42,6 +42,8 @@ This solution successfully addresses the requirements of two distinct challenges
 
 ## Project Structure (Overall Repository Layout)
 
+```
+
 project_root/
 ├── README.md                           # This file (overall project README)
 ├── Challenge_1a/                       # Directory for Challenge 1A specific files (if kept separate)
@@ -66,6 +68,8 @@ project_root/
 ├── pdf_extractor.py                # Handles low-level PDF parsing and element extraction (reused from 1A principles)
 ├── challenge1b_processor.py        # Orchestrates collection processing, semantic analysis, and output generation
 └── approach_explanation.md         # Detailed explanation of methodology and design choices
+
+```
 
 ## How to Build and Run the Solution
 
@@ -142,11 +146,14 @@ Upon successful execution of the Challenge 1B solution, `challenge1b_output.json
   ]
 }
 
-Models and Libraries Used
-PyMuPDF (fitz): Version 1.23.21 - For efficient PDF parsing and extraction of text, layout, and basic structural elements.
+```
 
-sentence-transformers: Version 2.7.0 - For generating semantic embeddings. The all-MiniLM-L6-v2 model is used.
+**Models and Libraries Used**
 
-torch: Version 2.3.1 - A deep learning framework, dependency for sentence-transformers.
+**PyMuPDF (fitz):** Version 1.23.21 - For efficient PDF parsing and extraction of text, layout, and basic structural elements.
 
-numpy: For numerical operations, dependency for sentence-transformers.
+**sentence-transformers:** Version 2.7.0 - For generating semantic embeddings. The all-MiniLM-L6-v2 model is used.
+
+**torch:** Version 2.3.1 - A deep learning framework, dependency for sentence-transformers.
+
+**numpy:** For numerical operations, dependency for sentence-transformers.
